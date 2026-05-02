@@ -12,6 +12,7 @@ minimumReleaseAgeExclude:
   - "@agentclientprotocol/sdk"
   - "axios"
   - "basic-ftp"
+  - "typebox"
   - "hono"
   - "openclaw"
   - "protobufjs"
